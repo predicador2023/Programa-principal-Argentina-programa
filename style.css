@@ -102,7 +102,7 @@ nav a:hover {
     background-color:rgba(173, 216, 230, 0.60);
     border-radius: 10px;
     padding: 5px;
-    text-align:left;
+    text-align:center;
     
 }
 
@@ -246,7 +246,7 @@ nav a:hover {
     align-items: center;
     margin-right: 20px;
     text-align: center;
-    justify-content: right;
+    justify-content: left;
    }
 
 @media ( max-width: 480px) {
